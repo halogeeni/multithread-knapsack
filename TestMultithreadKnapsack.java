@@ -1,8 +1,5 @@
 package aleksirasio.advancedalgorithms.lab06.multithread;
 
-import aleksirasio.advancedalgorithms.lab06.bruteforce.Item;
-import aleksirasio.advancedalgorithms.lab06.bruteforce.Solution;
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.math.BigInteger;
@@ -15,7 +12,7 @@ public class TestMultithreadKnapsack {
     private static Item[] items;
     private static int c;
 
-    private final static String FILE = "resources/hard33.txt";
+    private final static String FILE = "resources/easy20.txt";
 
     /**
      * @param args command line arguments

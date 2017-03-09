@@ -1,8 +1,5 @@
 package aleksirasio.advancedalgorithms.lab06.multithread;
 
-import aleksirasio.advancedalgorithms.lab06.bruteforce.Item;
-import aleksirasio.advancedalgorithms.lab06.bruteforce.Solution;
-
 import java.math.BigInteger;
 import java.util.TreeSet;
 
